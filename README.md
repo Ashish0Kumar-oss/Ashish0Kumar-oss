@@ -1,5 +1,5 @@
 # 💫About Me :
-👋 Hi, I'm an Engineering student at **Madan Mohan Malaviya University of Technology (MMUT)**, currently in my **1st year**.
+👋 Hi, I'm an Engineering student at **Madan Mohan Malaviya University of Technology (MMUT)**, currently in my **2nd year**.
 
 🚀 I have recently started my journey in **software development** and am actively learning **full-stack development**.  
 📚 I enjoy exploring and going through different **libraries, frameworks, and tools** to understand how things work under the hood.
